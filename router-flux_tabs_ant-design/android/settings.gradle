@@ -1,0 +1,3 @@
+rootProject.name = 'e5'
+
+include ':app'
