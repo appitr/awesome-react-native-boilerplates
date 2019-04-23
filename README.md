@@ -16,7 +16,7 @@ https://facebook.github.io/react-native/docs/getting-started
 | Folder  | Navigation lib | Navigator type  | UI lib |
 | ------------- | ------------- | ------------- | ------------- |
 | no-navigation_native-base  | -  | -  | Native Base  |
-| no-navigation_native-base  | -  | -  | Ant Design / React Native  |
+| no-navigation_ant-design  | -  | -  | Ant Design / React Native  |
 | no-navigaton_react-native-paper  | -  | -  | React Native Paper  |
 | no-navigation_react-native-elements  | -  | -  | React Native Elements  |
 | react-navigation_tabs_native-base  | React Navigation  | Tab Navigator  | Native Base  |
