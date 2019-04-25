@@ -1,8 +1,8 @@
-# Ant Design / React Native ✨ React Native Router Flux (Drawer Navigator) 🎌 Boilerplate
+# Ant Design / React Native ✨<br>React Native Router Flux (Drawer Navigator) 🎌<br>Boilerplate
 
 ## Usage:
 
-Set up react-native-cli and prepare a mobile device
+Set up react-native-cli and prepare a mobile device:<br>
 https://facebook.github.io/react-native/docs/getting-started
 
 ```
@@ -19,6 +19,9 @@ cd src
 
 ```
 
-[React Native Router Flux github](https://github.com/aksonov/react-native-router-flux)
-[Ant Design / React Native GitHub](https://github.com/ant-design/ant-design-mobile-rn)
-[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)
+[React Native Router Flux github](https://github.com/aksonov/react-native-router-flux)<br>
+[Ant Design / React Native GitHub](https://github.com/ant-design/ant-design-mobile-rn)<br>
+[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)<br>
+
+## Screenshots
+![Alt text](./screenshots/1.jpg)

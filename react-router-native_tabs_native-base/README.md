@@ -1,7 +1,7 @@
-# Native Base ✨ React Router Native (Tab Navigator) 🎌 Boilerplate
+# Native Base ✨<br>React Router Native (Tab Navigator) 🎌<br>Boilerplate
 
 ## Usage:
-Set up react-native-cli and prepare a mobile device
+Set up react-native-cli and prepare a mobile device:<br>
 https://facebook.github.io/react-native/docs/getting-started
 
 
@@ -19,6 +19,9 @@ cd src
 
 ```
 
-[React Router Native tutorial](https://reacttraining.com/react-router/native/guides/quick-start)
-[Native Base documentation](https://docs.nativebase.io/)
-[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)
+[React Router Native tutorial](https://reacttraining.com/react-router/native/guides/quick-start)<br>
+[Native Base documentation](https://docs.nativebase.io/)<br>
+[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)<br>
+
+## Screenshots
+![Alt text](./screenshots/1.jpg)

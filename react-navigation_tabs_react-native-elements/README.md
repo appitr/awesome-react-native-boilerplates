@@ -1,7 +1,7 @@
-# React Native Elements ✨ React Navigation (Tab Navigator) 🎌 Boilerplate
+# React Native Elements ✨<br>React Navigation (Tab Navigator) 🎌<br>Boilerplate
 
 ## Usage:
-Set up react-native-cli and prepare a mobile device
+Set up react-native-cli and prepare a mobile device:<br>
 https://facebook.github.io/react-native/docs/getting-started
 
 
@@ -19,6 +19,9 @@ cd src
 
 ```
 
-[React Navigation documentation](https://reactnavigation.org/docs/en/tab-based-navigation.html)
-[React Native Elements documentation](https://react-native-training.github.io/react-native-elements/docs/overview.html)
-[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)
+[React Navigation documentation](https://reactnavigation.org/docs/en/tab-based-navigation.html)<br>
+[React Native Elements documentation](https://react-native-training.github.io/react-native-elements/docs/overview.html)<br>
+[React Native documentation](https://facebook.github.io/react-native/docs/tutorial)<br>
+
+## Screenshots
+![Alt text](./screenshots/1.jpg)

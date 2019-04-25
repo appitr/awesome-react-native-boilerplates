@@ -1,7 +1,7 @@
-# Ant Design / React Native ✨ Boilerplate
+# Ant Design / React Native ✨<br> Boilerplate
 
 ## Usage:
-Set up react-native-cli and prepare a mobile device
+Set up react-native-cli and prepare a mobile device:<br>
 https://facebook.github.io/react-native/docs/getting-started
 
 
@@ -19,5 +19,8 @@ cd src
 
 ```
 
-[Ant Design / React Native GitHub](https://github.com/ant-design/ant-design-mobile-rn)
+[Ant Design / React Native GitHub](https://github.com/ant-design/ant-design-mobile-rn)<br>
 [React Native documentation](https://facebook.github.io/react-native/docs/tutorial)
+
+## Screenshots
+![Alt text](./screenshots/1.jpg)

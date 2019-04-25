@@ -1,7 +1,7 @@
-# React Native Paper ✨ Boilerplate
+# React Native Paper ✨<br>Boilerplate
 
 ## Usage:
-Set up react-native-cli and prepare a mobile device
+Set up react-native-cli and prepare a mobile device:<br>
 https://facebook.github.io/react-native/docs/getting-started
 
 
@@ -19,5 +19,8 @@ cd src
 
 ```
 
-[React Native Paper documentation](https://callstack.github.io/react-native-paper/)
+[React Native Paper documentation](https://callstack.github.io/react-native-paper/)<br>
 [React Native documentation](https://facebook.github.io/react-native/docs/tutorial)
+
+## Screenshots
+![Alt text](./screenshots/1.jpg)
