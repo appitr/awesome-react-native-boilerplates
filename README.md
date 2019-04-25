@@ -8,7 +8,7 @@ npm install
 react-native [run-android / run-ios]
 
 ```
-More about setting up a react-native-cli and running on a device:<br>https://facebook.github.io/react-native/docs/getting-started  <br>[navigate to React Native CLI Quickstart]
+More about setting up a react-native-cli and running on a device:<br>https://facebook.github.io/react-native/docs/getting-started  [navigate to React Native CLI Quickstart]
 
 ### List of all Boilerplates
 
