@@ -4,6 +4,8 @@ Effective start for your development with the most popular react-native navigati
 ## Usage: 
 
 ### Local
+
+Clone the repository
 ```
 cd [Choose Boilerplate]
 npm install
