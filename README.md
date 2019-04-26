@@ -10,9 +10,9 @@ react-native [run-android / run-ios]
 ```
 More about setting up a react-native-cli and running on a device:<br>https://facebook.github.io/react-native/docs/getting-started  [navigate to React Native CLI Quickstart]
 
-## Online Editor 
+## Online Editor 🚀
 
-[Appitr IDE](https://appitr.com/) is a beauitiful, **simple and free** online environment for building react-native applications. No  client and device setups required. Choose your boilerplate online and get started.
+[Appitr IDE](https://appitr.com/) is a beauitiful, simple and *free* online environment for building react-native applications. No  client and device setups required. Choose your boilerplate online and get started.
 
 
 ### List of all Boilerplates
