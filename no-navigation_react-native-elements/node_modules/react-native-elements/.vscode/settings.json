@@ -1,0 +1,4 @@
+{
+  "editor.wordWrap": "wordWrapColumn",
+  "eslint.enable": true
+}
